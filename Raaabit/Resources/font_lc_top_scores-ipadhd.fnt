@@ -1,0 +1,15 @@
+info face="Font" size=9 bold=0 italic=0 charset="" unicode=0 stretchH=56 smooth=0 aa=0 padding=0,0,0,0 spacing=1,1
+common lineHeight=9 base=9 scaleW=640 scaleH=56 pages=1 packed=0
+page id=0 file="font_lc_top_scores-ipadhd.png"
+chars count=10
+char id=48 x=598 y=0 width=40 height=56 xoffset=0 yoffset=0 xadvance=40 page=0 chnl=0
+char id=49 x=1 y=0 width=30 height=56 xoffset=0 yoffset=0 xadvance=30 page=0 chnl=0
+char id=50 x=62 y=0 width=34 height=56 xoffset=0 yoffset=0 xadvance=34 page=0 chnl=0
+char id=51 x=129 y=0 width=35 height=56 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=0
+char id=52 x=196 y=0 width=35 height=56 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=0
+char id=53 x=262 y=0 width=37 height=56 xoffset=0 yoffset=0 xadvance=37 page=0 chnl=0
+char id=54 x=331 y=0 width=36 height=56 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=0
+char id=55 x=399 y=0 width=32 height=56 xoffset=0 yoffset=0 xadvance=32 page=0 chnl=0
+char id=56 x=463 y=0 width=35 height=56 xoffset=0 yoffset=0 xadvance=35 page=0 chnl=0
+char id=57 x=530 y=0 width=36 height=56 xoffset=0 yoffset=0 xadvance=36 page=0 chnl=0
+kernings count=-1

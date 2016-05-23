@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[GB2ShapeCache addShapesWithFile:]:GB2ShapeCache.mm">
+         <PersistentStrings>
+            <PersistentString
+               value = "basicData.userData">
+            </PersistentString>
+            <PersistentString
+               value = "[fixtureData objectForKey:@&quot;id&quot;]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

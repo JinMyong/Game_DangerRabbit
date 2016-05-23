@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>229A350B-8ACE-40AC-AB53-9394861FAD53</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Raaabit</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>43BA157F-2EE8-483D-831C-D88B9581CB76</key>
+		<string>https://xp-dev.com/svn/SmallProjectsSVN/Raaabit</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Raaabit.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>43BA157F-2EE8-483D-831C-D88B9581CB76</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>43BA157F-2EE8-483D-831C-D88B9581CB76</key>
+		<string>https://xp-dev.com/svn/SmallProjectsSVN</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://xp-dev.com/svn/SmallProjectsSVN/Raaabit/Raaabit.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>43BA157F-2EE8-483D-831C-D88B9581CB76</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>43BA157F-2EE8-483D-831C-D88B9581CB76</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Raaabit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
